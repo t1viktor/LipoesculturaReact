@@ -27,7 +27,7 @@ export default function Modal01() {
       {/* Fundo escuro e modal */}
       {isOpen && (
         <div className="fixed z-50 inset-0 flex items-center justify-center bgBlur" onClick={() => setIsOpen(false)}>
-          <div className="modalCuidados" onClick={(e) => e.stopPropagation()}>
+          <div className="bg-gradient-to-r from-[#1F2937] to-[#2a3a50] py-6 rounded-2xl shadow-lg w-[50%] h-[95%] overflow-y-scroll text-center justify-items-center space-y-4 max-md:w-[80%] max-lg:h-[70%]" onClick={(e) => e.stopPropagation()}>
             <div className="border-b-[1px] w-full px-4 border-gray-700 flex flex-col-reverse items-center">
               <h2 className="modalCuidadoTittle">
                 {card07.tittle}

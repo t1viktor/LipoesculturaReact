@@ -54,8 +54,7 @@ export default function Modal01() {
               <li className="liModalCuidados">{card04.desc01}</li>
               <li className="liModalCuidados">{card04.desc02}</li>
               <li className="liModalCuidados">{card04.desc03}</li>
-              <li className="liModalCuidados">{card04.desc04}</li>
-              
+             
               
             </ul>
           </div>

@@ -53,7 +53,7 @@ export default function ModalResultados() {
                 </div>
                 <div className="flex justify-between border-b border-gray-700 py-2">
                   <span>1-2 semanas</span>
-                  <span className="text-right">Redução inicial do inchaço e desconforto, com melhora gradual do contorno torácico</span>
+                  <span className="text-right">Redução inicial do inchaço e desconforto, com melhora gradual do contorno corporal</span>
                 </div>
                 <div className="flex justify-between border-b border-gray-700 py-2">
                   <span>1-2 meses</span>
@@ -61,7 +61,7 @@ export default function ModalResultados() {
                 </div>
                 <div className="flex justify-between py-2">
                   <span>3-6 meses</span>
-                  <span className="text-right">Resultados finais com contorno torácico masculino e natural, cicatrizes mais suaves</span>
+                  <span className="text-right">Resultados finais com contorno corporal definido e natural, cicatrizes mais suaves</span>
                 </div>
               </div>
             </div>
